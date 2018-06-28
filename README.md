@@ -1,4 +1,4 @@
 # bestrepoever
-Hello, this is a line before the description. Changes made from Branch 2
+Hello, this is a line before the description. Changed in Branch1
 Peters test repo for Salesforce GITHUB Trailhead
 Hello, this is a line after the description
