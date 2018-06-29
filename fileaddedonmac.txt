@@ -3,3 +3,4 @@ here is another line in the file that I added on the mac
 filew #3 added tweak1 on mac tweak on PC
 filew #3 added tweak1 on mac #2
 Line 5 added on Mac vvvvvvv
+line 6
