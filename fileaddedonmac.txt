@@ -4,4 +4,5 @@ filew #3 added tweak1 on mac tweak on PC
 filew #3 added tweak1 on mac #2
 Line 5 added on Mac vvvvvvv
 My conflicting line 6 change ******
-conflicting line 7 #33 this is not 12345
+conflicting line 7 #33 this is not changed 7 to something different
+added 8 as well 
